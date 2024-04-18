@@ -16,6 +16,7 @@
 // https://github.com/hrydgard/ppsspp and http://www.ppsspp.org/.
 
 #include <algorithm>
+#include <limits>
 #include <string.h>
 #include "file/file_util.h"
 #include "Common/FileUtil.h"
